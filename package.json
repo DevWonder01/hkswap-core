@@ -1,0 +1,19 @@
+{
+  "name": "hkswap-core",
+  "version": "1.0.0",
+  "description": "HKSwap Core",
+  "keywords": [
+    "swap",
+    "defi",
+    "exchange",
+    "mma",
+    "farming",
+    "cryptocurrency"
+  ],
+  "author": "HKSwap",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2"
+  },
+  "devDependencies": {},
+  "peerDependencies": {}
+}
